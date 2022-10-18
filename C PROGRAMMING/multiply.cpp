@@ -1,0 +1,8 @@
+#include <stdio.h>
+void main()
+{
+	int a=6;
+	int b=5;
+	int c=a*b;
+	print ("%d", c);
+}
